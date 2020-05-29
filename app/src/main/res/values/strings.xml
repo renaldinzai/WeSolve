@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeSolve</string>
+    <string name="about">About</string>
+    <string name="dumy_notifications">Anda belum memiliki pesanan</string>
+    <string name="order_now">Pesan Sekarang</string>
+    <string name="dev_name">Renaldin Suinto Zai</string>
+    <string name="dev_email">renaldin2@gmail.com</string>
+    <string name="dial">Hubungi</string>
+    <string name="priceStart">Harga mulai dari</string>
+    <string name="description">Deskripsi</string>
+</resources>
